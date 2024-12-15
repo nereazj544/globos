@@ -1,4 +1,4 @@
-package fp.dam.psp.globos;
+package fp.dam.psp.EXAMENES.Ev1_ex2_NereaZJ.globosexamen.src.fp.dam.psp.globos;
 
 import java.util.ArrayList;
 import java.util.Random;

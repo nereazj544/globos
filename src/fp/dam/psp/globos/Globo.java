@@ -1,5 +1,5 @@
-package fp.dam.psp.globos;
-import static fp.dam.psp.globos.EstadoGlobo.*;
+package fp.dam.psp.EXAMENES.Ev1_ex2_NereaZJ.globosexamen.src.fp.dam.psp.globos;
+import static fp.dam.psp.EXAMENES.Ev1_ex2_NereaZJ.globosexamen.src.fp.dam.psp.globos.EstadoGlobo.*;
 
 public class Globo {
 

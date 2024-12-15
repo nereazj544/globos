@@ -1,6 +1,6 @@
-package fp.dam.psp.globos;
+package fp.dam.psp.EXAMENES.Ev1_ex2_NereaZJ.globosexamen.src.fp.dam.psp.globos;
 
-import static fp.dam.psp.globos.EstadoGlobo.*;
+import static fp.dam.psp.EXAMENES.Ev1_ex2_NereaZJ.globosexamen.src.fp.dam.psp.globos.EstadoGlobo.*;
 
 public class HinchaGlobos extends HiloPausable {
 
